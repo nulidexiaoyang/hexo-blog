@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 标题
-subtitle: '网站副标题'
-description: '网站描述'
-keywords: 网站关键字,支持多个关键字
-author: 作者名字
+title: nulidexiaoyang Blog
+subtitle: ''
+description: '这个人很懒, 什么都没有留下'
+keywords:
+author: Xyan9i
 # 语言,2个字母的ISO-639-1代码
 language: zh
 # 时区
@@ -16,7 +16,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 #网址, 必须以 http:// 或 https:// 开头
-url: http://example.com
+url: https://nulidexiaoyang.github.io
 # 网站根目录 默认值 url's pathname
 # root: 
 #文章的 永久链接 格式 :year/:month/:day/:title/
